@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name = 'timeFunc',
-    scripts = ['timeFunc']
+    scripts = ['timeFunc'],
     #packages = ['timeFunc'],
     version = '1.0',
     description = 'A decorator type timing function',
